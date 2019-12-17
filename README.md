@@ -1,11 +1,10 @@
-# README
+# Learing Ruby on rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I'm learning Ruby on rails with using [rails tutorial](https://railstutorial.jp/chapters/beginning)
 
-Things you may want to cover:
+## Ruby version
 
-* Ruby version
+ruby 2.6.5p114 (2019-10-01 revision 67812) [x86_64-darwin18]
 
 * System dependencies
 
